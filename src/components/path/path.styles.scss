@@ -1,0 +1,15 @@
+
+.path{
+  margin-top: 20px;
+  height: 200px;
+  background:var(--beige-color-1);
+  color: var(--dark-color-1);
+  padding: 10px;
+
+
+  a{
+    &:hover{
+      color: var(--dark-color-2)
+    }
+  }
+}

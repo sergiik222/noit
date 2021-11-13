@@ -1,0 +1,16 @@
+
+.footer {
+  height: 70px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 25px;
+  background-color: var(--dark-color-1);
+
+  h1 {
+    height: 100%;
+    width: 70px;
+    padding: 10px 15px;
+    color: var(--light-color-1);
+  }
+}
